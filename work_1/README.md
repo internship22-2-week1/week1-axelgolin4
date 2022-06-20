@@ -1,5 +1,5 @@
 
-#Primer dia de pasantia
+# Primer dia de pasantia
 
 Configuramos nuestro entorno de trabajo 
 Intalando extenciones en VS y configurando WSL
